@@ -1,29 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>https://muahack.com/valorant-2411.ipa</string>
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-<key>bundle-identifier</key>
-<string>com.tencent.tmgp.codev</string>
-<key>bundle-version</key>
-<string>1.1.0</string>
-<key>kind</key>
-<string>software</string>
-<key>title</key>
-<string>无畏契约1.0</string>
-</dict>
-</dict>
-</array>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://fafda.to/d/pucogp872lpa?v=tTCRZh4K9ufK3jGvVxDeMvXjVyhWzsEfGdrQD--PORTpIeIx382KajhyW4jhdjwj-M0iEUuvXVN-HWkottjC7PRYN8enDme039rUNkjC5iNm-fWSRvnqOX_9GikR28HGpjlXL7Yi4e8Q2HoSlfSqMaJ3xUNeetAjYgRxbvRU3ecrBu5eIj2c07peIA</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.tencent.tmgp.codev1</string>
+
+        <key>bundle-version</key>
+        <string>1.21.0</string>
+
+        <key>kind</key>
+        <string>software</string>
+
+        <key>title</key>
+        <string>无畏契约：源能行动</string>
+      </dict>
+    </dict>
+  </array>
 </dict>
 </plist>
