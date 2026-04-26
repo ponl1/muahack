@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://ts.buzzheavier.com/d/60cpnfp6ktin?v=USzeU8_ageTVPHqSAVYFEziuwX6_8XoeNN_QhJ3d2nCxR_UDq3PN-5335XO6sihDaT7OFdgcrQR8X4Cx2bcfYqYYWu6GbDrJWz1fcGWnqydlg9CIhxGR58L-IZFiRfrZfanFZb7xkr6tHcPdnV1KZzBq_Sx4_oceVQ</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.tw.mf.uamo</string>
+        <key>bundle-version</key>
+        <string>236</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Arena Breakout</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
